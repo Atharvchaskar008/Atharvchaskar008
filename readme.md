@@ -7,11 +7,6 @@
 I build modern, scalable web and mobile applications with a strong focus on clean architecture, performance, and real-world impact.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Atharvchaskar008"><img src="https://img.shields.io/badge/GitHub-Atharvchaskar008-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/atharv-chaskar-75711936b/"><img src="https://img.shields.io/badge/LinkedIn-Atharv%20Chaskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:atharvchaskar0001@gmail.com"><img src="https://img.shields.io/badge/Email-atharvchaskar0001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
