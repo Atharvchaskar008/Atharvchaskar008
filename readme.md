@@ -10,12 +10,12 @@ I build modern, scalable web and mobile applications with a strong focus on clea
 
 ---
 
-## 🚀 About Me
+ About Me
 
-- 💼 **Full-Stack Development : I create complete products from responsive frontend interfaces to secure and efficient backend APIs.
-- 🤖 **AI Enthusiast (Second Priority): I enjoy exploring AI-powered experiences and learning how intelligent systems can improve applications.
-- 📱 **Mobile Development: I build cross-platform mobile apps using React Native and Expo.
-- 🎯 I value clean code, practical problem-solving, and continuous learning.
+- Full-Stack Development : I create complete products from responsive frontend interfaces to secure and efficient backend APIs.
+- AI Enthusiast (Second Priority): I enjoy exploring AI-powered experiences and learning how intelligent systems can improve applications.
+- Mobile Development: I build cross-platform mobile apps using React Native and Expo.
+- I value clean code, practical problem-solving, and continuous learning.
 
 ---
 
