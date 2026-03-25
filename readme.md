@@ -1,6 +1,6 @@
 <!-- Profile banner suggestion: Use a clean gradient/coding-themed banner, e.g. ![Banner](https://your-image-link-here) -->
 
-<h1 align="center">Hi, I'm Atharv Chaskar 👋</h1>
+<h1 align="center"> I am Atharv Chaskar </h1>
 <h3 align="center">Full-Stack Developer • AI Enthusiast</h3>
 
 <p align="center">
