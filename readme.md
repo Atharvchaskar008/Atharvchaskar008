@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Atharv%20Chaskar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Atharv%20Chaskar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn&fontAlignX=50&descAlignX=50" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+%F0%9F%9A%80;Exploring+AI-powered+experiences+%F0%9F%A4%96;Crafting+mobile+apps+with+React+Native+%F0%9F%93%B1;Clean+code%2C+real-world+impact+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+%F0%9F%9A%80;Crafting+mobile+apps+with+React+Native+%F0%9F%93%B1;Designing+scalable+REST+APIs+%E2%9A%99%EF%B8%8F;Clean+code%2C+real-world+impact+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +27,7 @@ const atharv = {
 
 ---
 
-## 🚀 What I Build
+## What I Do
 
 <table>
 <tr>
@@ -47,14 +47,15 @@ I integrate intelligent workflows into real apps — exploring how AI can make p
 <tr>
 <td width="50%">
 
-###  Mobile Applications
-Cross-platform apps for Android & iOS using React Native + Expo — smooth, native-feeling experiences from a single codebase.
+###  APIs & Architecture
+Designing and integrating REST APIs for maintainable, scalable systems — with a strong focus on clean architecture patterns.
 
 </td>
 <td width="50%">
+  
 
-### ⚙️ APIs & Architecture
-Designing and integrating REST APIs for maintainable, scalable systems — with a strong focus on clean architecture patterns.
+###  Mobile Applications
+Cross-platform apps for Android & iOS using React Native + Expo — smooth, native-feeling experiences from a single codebase.
 
 </td>
 </tr>
@@ -62,9 +63,9 @@ Designing and integrating REST APIs for maintainable, scalable systems — with 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💬 Languages
+###  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
@@ -90,11 +91,14 @@ Designing and integrating REST APIs for maintainable, scalable systems — with 
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-###  Tools & Cloud
+### ☁️ Tools & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,netlify,git,github,vscode&theme=dark" />
 </p>
+
+---
+
 
 ---
 
@@ -124,6 +128,5 @@ Designing and integrating REST APIs for maintainable, scalable systems — with 
 
 *"The best way to predict the future is to build it."* 💡
 
-![Profile Views](https://komarev.com/ghpvc/?username=Atharvchaskar008&color=A78BFA&style=flat-square&label=Profile+Views)
 
 </div>
