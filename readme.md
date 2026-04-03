@@ -36,7 +36,7 @@ const atharv = {
 
 **Tools & Cloud**  
 <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark" />
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="48" />
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="48" />
 
 </div>
 ---
