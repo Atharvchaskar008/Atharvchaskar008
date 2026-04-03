@@ -26,15 +26,19 @@ const atharv = {
 <div align="center">
 
 **Languages**  
+
 <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
 
 **Frontend**  
+
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 
 **Backend**  
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
 **Tools & Cloud**  
+
 <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark" />
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="48" />
 
