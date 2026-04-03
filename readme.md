@@ -1,104 +1,47 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Atharv%20Chaskar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn&fontAlignX=50&descAlignX=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=180&section=header&text=Atharv%20Chaskar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Tech%20Enthusiast%20%7C%20Always%20Learning&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Curious+by+nature.+Builder+by+choice.;Exploring+Web+%2C+AI+%26+everything+in+between.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
-
 ```javascript
 const atharv = {
-  role: "Full-Stack Developer & AI Enthusiast",
+  role: "Full-Stack Developer & Tech Enthusiast",
   location: "India 🇮🇳",
-  focus: ["Web Apps", "REST APIs", "Mobile Dev", "AI Integration"],
-  currentlyExploring: "AI-powered workflows & intelligent systems",
-  philosophy: "Clean code. Practical solutions. Continuous learning.",
-  funFact: "I believe the best way to predict the future is to build it 🔨"
+  focus: ["Web Apps", "Problem Solving", "AI Integration"],
+  mindset: "Eager to learn. Hungry to grow. Always solving.",
 };
 ```
 
 ---
 
-## What I Do
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-###  Full-Stack Web Apps
-End-to-end products with modern frontends and secure, scalable backends. From beautiful UIs to robust APIs — I own the full stack.
+**Languages**
 
-</td>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
 
-###  AI-Powered Experiences
-I integrate intelligent workflows into real apps — exploring how AI can make products smarter, faster, and more impactful.
+**Frontend**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 
-###  APIs & Architecture
-Designing and integrating REST APIs for maintainable, scalable systems — with a strong focus on clean architecture patterns.
+**Backend**
 
-</td>
-<td width="50%">
-  
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-###  Mobile Applications
-Cross-platform apps for Android & iOS using React Native + Expo — smooth, native-feeling experiences from a single codebase.
+**Tools & Cloud**
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=firebase,netlify,git,github,vscode&theme=dark" />
 
----
-
-##  Tech Stack
-
-###  Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
-</p>
-
-###  Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
-</p>
-
-###  Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-###  Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
-### ☁️ Tools & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,netlify,git,github,vscode&theme=dark" />
-</p>
-
----
-
+</div>
 
 ---
 
@@ -123,10 +66,8 @@ Cross-platform apps for Android & iOS using React Native + Expo — smooth, nati
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
-*"The best way to predict the future is to build it."* 💡
-
+*"The best way to predict the future is to imagine it and to live it in a way whihc you want."* 💡
 
 </div>
