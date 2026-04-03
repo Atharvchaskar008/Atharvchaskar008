@@ -46,9 +46,10 @@ const atharv = {
   <tr>
     <td align="left" style="padding: 14px 24px;"><b>Tools & Cloud</b></td>
     <td align="left" style="padding: 14px 24px;">
-      <div display="flex"> 
-      <img src="https://skillicons.dev/icons?i=firebase,git,github,&theme=dark" height="60"/> <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="55"/>
-      </div>
+       <div style="display: flex; align-items: center; gap: 10px;">
+         <img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark" height="60"/>
+         <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="55"/>
+       </div>
     </td>
   </tr>
 </table>
