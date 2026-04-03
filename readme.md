@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+%F0%9F%9A%80;Crafting+mobile+apps+with+React+Native+%F0%9F%93%B1;Designing+scalable+REST+APIs+%E2%9A%99%EF%B8%8F;Clean+code%2C+real-world+impact+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+)](https://git.io/typing-svg)
 
 </div>
 
