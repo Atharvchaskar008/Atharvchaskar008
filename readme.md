@@ -27,29 +27,27 @@ const atharv = {
 <table style="border-collapse: collapse;">
   <tr>
     <td align="left" style="padding: 14px 24px; min-width: 140px;"><b>Languages</b></td>
-    <td align="left" style="padding: 14px 24px;">
-      <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" height="60"/>
+    <td align="left" style="padding: 14px 24px; white-space: nowrap;">
+      <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" height="55"/>
     </td>
   </tr>
   <tr>
     <td align="left" style="padding: 14px 24px;"><b>Frontend</b></td>
-    <td align="left" style="padding: 14px 24px;">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" height="60"/>
+    <td align="left" style="padding: 14px 24px; white-space: nowrap;">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" height="55"/>
     </td>
   </tr>
   <tr>
     <td align="left" style="padding: 14px 24px;"><b>Backend</b></td>
-    <td align="left" style="padding: 14px 24px;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="60"/>
+    <td align="left" style="padding: 14px 24px; white-space: nowrap;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="55"/>
     </td>
   </tr>
   <tr>
     <td align="left" style="padding: 14px 24px;"><b>Tools & Cloud</b></td>
-    <td align="left" style="padding: 14px 24px;">
-       <div style="display: flex; align-items: center; gap: 10px;">
-         <img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark" height="60"/>
-         <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="55"/>
-       </div>
+    <td align="left" style="padding: 14px 24px; white-space: nowrap;">
+      <img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark" height="55"/>
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="50"/>
     </td>
   </tr>
 </table>
