@@ -25,24 +25,19 @@ const atharv = {
 
 <div align="center">
 
-**Languages**
-
+**Languages**  
 <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
 
-**Frontend**
-
+**Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 
-**Backend**
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-**Tools & Cloud**
-
+**Tools & Cloud**  
 <img src="https://skillicons.dev/icons?i=firebase,netlify,git,github,vscode&theme=dark" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
