@@ -1,94 +1,147 @@
-<!-- Profile banner suggestion: Use a clean gradient/coding-themed banner, e.g. ![Banner](https://your-image-link-here) -->
+<div align="center">
 
-<h1 align="center"> I am Atharv Chaskar </h1>
-<h3 align="center">Full-Stack Developer • AI Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Atharv%20Chaskar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-I build modern, scalable web and mobile applications with a strong focus on clean architecture, performance, and real-world impact.
-</p>
+</div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+%F0%9F%9A%80;Exploring+AI-powered+experiences+%F0%9F%A4%96;Crafting+mobile+apps+with+React+Native+%F0%9F%93%B1;Clean+code%2C+real-world+impact+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
- About Me
+## 🧠 About Me
 
-- Full-Stack Development : I create complete products from responsive frontend interfaces to secure and efficient backend APIs.
-- AI Enthusiast : I enjoy exploring AI-powered experiences and learning how intelligent systems can improve applications.
-- Mobile Development: I build cross-platform mobile apps using React Native and Expo.
-- I value clean code, practical problem-solving, and continuous learning.
+```javascript
+const atharv = {
+  role: "Full-Stack Developer & AI Enthusiast",
+  location: "India 🇮🇳",
+  focus: ["Web Apps", "REST APIs", "Mobile Dev", "AI Integration"],
+  currentlyExploring: "AI-powered workflows & intelligent systems",
+  philosophy: "Clean code. Practical solutions. Continuous learning.",
+  funFact: "I believe the best way to predict the future is to build it 🔨"
+};
+```
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Web Apps
+End-to-end products with modern frontends and secure, scalable backends. From beautiful UIs to robust APIs — I own the full stack.
+
+</td>
+<td width="50%">
+
+### 🤖 AI-Powered Experiences
+I integrate intelligent workflows into real apps — exploring how AI can make products smarter, faster, and more impactful.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Applications
+Cross-platform apps for Android & iOS using React Native + Expo — smooth, native-feeling experiences from a single codebase.
+
+</td>
+<td width="50%">
+
+### ⚙️ APIs & Architecture
+Designing and integrating REST APIs for maintainable, scalable systems — with a strong focus on clean architecture patterns.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💬 Languages
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
 </p>
 
-### Frontend
+### 🎨 Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 </p>
 
-### Backend
+### ⚙️ Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### Mobile
+### 📱 Mobile
+
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo_Go-000020?style=for-the-badge&logo=expo&logoColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### Tools & Services
+### ☁️ Tools & Cloud
+
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=firebase,netlify,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 💡 What I Do
+## 📊 GitHub Stats
 
-- Build end-to-end full-stack web apps with modern frontend + backend architecture  
-- Design and integrate REST APIs for scalable and maintainable systems  
-- Deploy and manage projects using cloud tools like Firebase and Netlify  
-- Explore AI-driven features and practical intelligent workflows  
-- Develop smooth mobile experiences for Android/iOS with React Native + Expo  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Atharvchaskar008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvchaskar008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
 
+</div>
 
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvchaskar008&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/atharv-chaskar-75711936b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Chaskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Atharvchaskar008">
-    <img src="https://img.shields.io/badge/GitHub-Atharvchaskar008-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:atharvchaskar0001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-atharvchaskar0001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-> *"The best way to predict the future is to build it."* 💡
+## 🤝 Let's Connect
 
-**Profile Links:** [GitHub](https://github.com/Atharvchaskar008) · [LinkedIn](https://www.linkedin.com/in/atharv-chaskar-75711936b/)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/atharv-chaskar-75711936b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Atharvchaskar008">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:atharvchaskar0001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+*"The best way to predict the future is to build it."* 💡
+
+![Profile Views](https://komarev.com/ghpvc/?username=Atharvchaskar008&color=A78BFA&style=flat-square&label=Profile+Views)
+
+</div>
