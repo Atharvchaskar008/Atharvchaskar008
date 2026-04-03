@@ -46,8 +46,7 @@ const atharv = {
   <tr>
     <td align="left" style="padding: 14px 24px;"><b>Tools & Cloud</b></td>
     <td align="left" style="padding: 14px 24px;">
-      <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark" height="60"/>
-      &nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=firebase,git,github,&theme=dark" height="60"/>
       <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="55"/>
     </td>
   </tr>
