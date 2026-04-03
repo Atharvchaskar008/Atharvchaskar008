@@ -33,13 +33,13 @@ const atharv = {
 <tr>
 <td width="50%">
 
-### 🌐 Full-Stack Web Apps
+###  Full-Stack Web Apps
 End-to-end products with modern frontends and secure, scalable backends. From beautiful UIs to robust APIs — I own the full stack.
 
 </td>
 <td width="50%">
 
-### 🤖 AI-Powered Experiences
+###  AI-Powered Experiences
 I integrate intelligent workflows into real apps — exploring how AI can make products smarter, faster, and more impactful.
 
 </td>
@@ -47,7 +47,7 @@ I integrate intelligent workflows into real apps — exploring how AI can make p
 <tr>
 <td width="50%">
 
-### 📱 Mobile Applications
+###  Mobile Applications
 Cross-platform apps for Android & iOS using React Native + Expo — smooth, native-feeling experiences from a single codebase.
 
 </td>
@@ -70,19 +70,19 @@ Designing and integrating REST APIs for maintainable, scalable systems — with 
   <img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### 📱 Mobile
+###  Mobile
 
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
@@ -90,29 +90,11 @@ Designing and integrating REST APIs for maintainable, scalable systems — with 
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### ☁️ Tools & Cloud
+###  Tools & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,netlify,git,github,vscode&theme=dark" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atharvchaskar008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvchaskar008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvchaskar008&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
-
-</div>
 
 ---
 
