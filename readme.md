@@ -21,7 +21,7 @@ const atharv = {
 
 ---
 
-<h1>Tech Stack</h1>
+<h3>Tech Stack</h3>
 
 <div align="center">
 <table style="border-collapse: collapse;">
