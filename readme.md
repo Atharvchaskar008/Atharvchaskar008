@@ -21,7 +21,7 @@ const atharv = {
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 <div align="center">
 <table style="border-collapse: collapse;">
