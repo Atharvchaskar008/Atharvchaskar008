@@ -55,7 +55,7 @@ const atharv = {
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/atharv-chaskar-75711936b/">
