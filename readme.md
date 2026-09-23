@@ -55,6 +55,22 @@ const atharv = {
   <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge" alt="Yolo" />
 </div>
 
+<h3>Skills</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/API_Development-FF4B4B?style=for-the-badge" alt="API Development" />
+  <img src="https://img.shields.io/badge/Backend_Development-4CAF50?style=for-the-badge" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-2196F3?style=for-the-badge" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/Computer_Vision_&_AI-9C27B0?style=for-the-badge" alt="Computer Vision & AI" />
+  <img src="https://img.shields.io/badge/Database_Management-FF9800?style=for-the-badge" alt="Database Management" />
+  <br/>
+  <img src="https://img.shields.io/badge/DevOps-607D8B?style=for-the-badge" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Frontend_Development-E91E63?style=for-the-badge" alt="Frontend Development" />
+  <img src="https://img.shields.io/badge/Mobile_App_Development-009688?style=for-the-badge" alt="Mobile App Development" />
+  <img src="https://img.shields.io/badge/System_Administration-795548?style=for-the-badge" alt="System Administration" />
+  <img src="https://img.shields.io/badge/Version_Control-F44336?style=for-the-badge" alt="Version Control" />
+</div>
+
 ---
 
 ##  Let's Connect
